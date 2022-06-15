@@ -29,9 +29,9 @@ foreignObject {
 h2 {
   margin-top: 0;
   margin-bottom: 0.75em;
-  font-size: 12px;
-  line-height: 18px;
-  color: rgb(88, 96, 105);
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(3, 102, 214);
 }
 
 #gh-dark-mode-only:target h2 {
